@@ -1,0 +1,132 @@
+*	{
+			margin:0;
+			padding: 0;
+		}
+		.outer
+		{
+			height: 750px;
+			width:750px;
+			margin:0px auto;
+			border:1px solid rgb(147, 1, 1);
+		}
+		.box_row
+		{
+		height: 300px;
+		width:750px;
+		background:#f07485;
+		}
+		.box
+		{
+			height: 200px;
+			width:200px;
+			float: left;
+			background: #ccc;
+		}
+		.v_lad
+		{
+			height: 300px;
+			width:150px;
+			background: #ed8541;
+			float: left;
+		}
+		.circle
+		{
+			height: 50px;
+			width:50px;
+			background: white;
+			margin:25px;
+			border-radius: 50%;
+			box-sizing: border-box;
+			float: left;
+		}
+		.border_red
+		{
+			border:5px solid rgb(147, 1, 1);
+		}
+		.border_green
+		{
+			border:5px solid rgb(2, 118, 2);
+		}
+		.border_blue
+		{
+			border:5px solid rgb(2, 2, 84);
+		}
+		.border_yellow
+		{
+			border:5px solid  rgb(197, 197, 5);
+		}
+		.v_lad_row
+		{
+			height: 50px;
+			width:150px;
+			background:  #faedd3;
+		}
+		.v_lad_cell
+		{
+			height: 50px;
+			width:50px;
+			border:1px solid #000;
+			box-sizing: border-box;
+			float: left;
+			text-align: center;
+		}
+		.red
+		{
+			background: rgb(147, 1, 1);
+		}
+		.green
+		{
+			background: rgb(2, 118, 2);
+		}
+		.blue
+		{
+			background: rgb(2, 2, 84);
+		}
+		.yellow
+		{
+			background:  rgb(197, 197, 5);
+		}
+		.middle_row
+		{
+			height: 150px;
+			width:750px;
+
+		}
+		.h_lad
+		{
+			height: 150px;
+			width:300px;
+			background: white;
+			float : left;
+		}
+		.h_lad_row
+		{
+			height: 50px;
+			width: 300px;
+			background: #faedd3;
+			float: left;
+		}
+		.h_lad_cell
+		{
+			height: 50px;
+			width:50px;
+			border:1px solid #000;
+			float: left;
+			box-sizing: border-box;
+			text-align: center;
+		}
+		.ludo_home
+		{
+			height: 0;
+			width: 0;
+			border-left:75px solid rgb(147, 1, 1);
+			border-right:75px solid  rgb(197, 197, 5);
+			border-top:75px solid rgb(2, 118, 2);
+			border-bottom:75px solid rgb(2, 2, 84);
+			float: left;	
+		}
+		.star
+		{
+			font-size: 32px;
+			text-align: center;
+		}
